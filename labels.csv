@@ -1,0 +1,60 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+Acacia Tree,206,32,705,704,0.png,1366,768
+Birch Tree,560,149,304,427,1.png,1366,768
+Dark Oak Tree,437,145,550,486,10.png,1366,768
+Oak Tree,425,113,443,429,11.png,1366,768
+Jungle Tree,604,190,387,526,12.png,1366,768
+Dark Oak Tree,488,188,286,284,13.png,1366,768
+Jungle Tree,405,0,292,679,14.png,1366,768
+Spruce Tree,528,232,326,447,15.png,1366,768
+Acacia Tree,453,206,612,310,16.png,1366,768
+Jungle Tree,431,65,314,655,17.png,1366,768
+Spruce Tree,526,59,629,548,18.png,1366,768
+Birch Tree,588,228,195,306,19.png,1366,768
+Jungle Tree,586,272,183,367,2.png,1366,768
+Spruce Tree,377,87,608,572,20.png,1366,768
+Dark Oak Tree,528,252,234,240,21.png,1366,768
+Birch Tree,534,141,407,570,22.png,1366,768
+Spruce Tree,395,155,494,486,23.png,1366,768
+Birch Tree,455,143,355,484,24.png,1366,768
+Acacia Tree,455,206,409,387,25.png,1366,768
+Acacia Tree,514,246,465,351,26.png,1366,768
+Dark Oak Tree,250,216,439,369,27.png,1366,768
+Oak Tree,524,184,347,336,28.png,1366,768
+Acacia Tree,518,151,441,447,29.png,1366,768
+Jungle Tree,477,38,437,679,3.png,1366,768
+Jungle Tree,439,137,347,631,30.png,1366,768
+Spruce Tree,512,151,312,391,31.png,1366,768
+Oak Tree,449,115,419,405,32.png,1366,768
+Jungle Tree,465,81,330,687,33.png,1366,768
+Acacia Tree,421,157,431,437,34.png,1366,768
+Spruce Tree,385,184,471,463,35.png,1366,768
+Jungle Tree,588,107,397,449,36.png,1366,768
+Jungle Tree,608,73,236,508,37.png,1366,768
+Jungle Tree,582,210,230,425,38.png,1366,768
+Dark Oak Tree,443,155,550,506,39.png,1366,768
+Oak Tree,542,105,435,433,4.png,1366,768
+Birch Tree,399,85,433,600,40.png,1366,768
+Spruce Tree,457,61,475,707,41.png,1366,768
+Spruce Tree,568,121,220,282,42.png,1366,768
+Spruce Tree,540,157,357,536,43.png,1366,768
+Oak Tree,486,103,419,423,44.png,1366,768
+Dark Oak Tree,449,204,451,375,45.png,1366,768
+Birch Tree,486,246,286,316,46.png,1366,768
+Birch Tree,639,272,254,296,47.png,1366,768
+Jungle Tree,250,8,480,625,48.png,1366,768
+Oak Tree,330,167,635,441,49.png,1366,768
+Jungle Tree,540,81,288,532,5.png,1366,768
+Jungle Tree,459,184,330,365,50.png,1366,768
+Dark Oak Tree,528,135,502,528,51.png,1366,768
+Dark Oak Tree,437,123,494,469,52.png,1366,768
+Oak Tree,570,182,361,349,53.png,1366,768
+Birch Tree,588,196,316,387,54.png,1366,768
+Spruce Tree,516,143,363,465,55.png,1366,768
+Jungle Tree,580,0,220,580,56.png,1366,768
+Birch Tree,510,226,284,296,57.png,1366,768
+Dark Oak Tree,306,131,572,475,58.png,1366,768
+Dark Oak Tree,391,32,516,564,6.png,1366,768
+Oak Tree,574,266,203,199,7.png,1366,768
+Birch Tree,590,171,383,482,8.png,1366,768
+Dark Oak Tree,556,137,627,538,9.png,1366,768
